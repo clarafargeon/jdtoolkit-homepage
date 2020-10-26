@@ -6,6 +6,38 @@
     url('?__debugger__=yes&cmd=resource&f=ubuntu.ttf') format('truetype');
 }
 
+.logo {
+  width: 400px;
+  }
+
+.Banner {
+  width: 1200px;
+  }
+
+  .moon {
+    width: 400px;
+    }
+
+    .bakery {
+      width: 400px;
+      }
+
+      .arc {
+        width: 400px;
+        }
+
+        .boat{
+          width: 450px;
+          }
+
+          .party {
+            width: 450px;
+            }
+
+            .group {
+              width: 450px;
+              }
+
 body, input  { font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',
                'Verdana', sans-serif; color: #000; text-align: center;
                margin: 1em; padding: 0; font-size: 15px; }
